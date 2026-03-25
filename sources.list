@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 deb http://mirrors.cloud.tencent.com/ubuntu/ bionic main restricted universe multiverse
 # deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic main restricted universe multiverse
 deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-updates main restricted universe multiverse
@@ -9,3 +10,16 @@ deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-security main restricted uni
  
 # deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-proposed main restricted universe multiverse
 # deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic-proposed main restricted universe multiverse
+=======
+deb http://mirrors.cloud.tencent.com/ubuntu/ bionic main restricted universe multiverse
+# deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic main restricted universe multiverse
+deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-updates main restricted universe multiverse
+# deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-backports main restricted universe multiverse
+# deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic-backports main restricted universe multiverse
+deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-security main restricted universe multiverse
+# deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic-security main restricted universe multiverse
+ 
+# deb http://mirrors.cloud.tencent.com/ubuntu/ bionic-proposed main restricted universe multiverse
+# deb-src http://mirrors.cloud.tencent.com/ubuntu/ bionic-proposed main restricted universe multiverse
+>>>>>>> 5f359f1b8797dc2cdb4b169cbbdb42779cb06c89

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 *.h linguist-language=cpp
 *.c linguist-language=cpp
+=======
+*.h linguist-language=cpp
+*.c linguist-language=cpp
+>>>>>>> 5f359f1b8797dc2cdb4b169cbbdb42779cb06c89
